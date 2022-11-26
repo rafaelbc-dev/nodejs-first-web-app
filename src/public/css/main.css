@@ -6,3 +6,7 @@ body {
 section div.main {
     background-color: #505050;
 }
+
+section div.secondary {
+    background-color: #0077ff;
+}
